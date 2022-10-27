@@ -1,0 +1,1 @@
+Calculating the absolute difference of a square matrix
