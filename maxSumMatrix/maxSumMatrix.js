@@ -38,11 +38,3 @@ function maxSumMatrix(matrix) {
     
     return prop
 }
-
-bidi = [
-    [107,54,128,15],
-    [12,75,110,138],
-    [100,96,34,85],
-    [333,15,28,112]
-]
-console.log(maxSumMatrix(bidi))
